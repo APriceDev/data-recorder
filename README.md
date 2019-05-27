@@ -8,7 +8,7 @@ The Arduino script using TMP36 temperature sensor for data.
 #include <Time.h>
 #include <TimeLib.h>
 
-// Recieve data from Arduino pin A0
+// Receive data from Arduino pin A0
 const int pin = 0;
 
 void setup() {
